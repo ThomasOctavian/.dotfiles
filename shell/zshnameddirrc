@@ -1,0 +1,2 @@
+hash -d cac=/home/pseudo/.cache 
+hash -d bf=/home/pseudo/.config/shell/bm-files 
